@@ -1,0 +1,2 @@
+"Hello, Git!" 
+"Vsem, hi. Vsem hai"
