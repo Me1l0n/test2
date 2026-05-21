@@ -1,46 +1,54 @@
-# ⚡ Йоу, 42 братуха! Эшкере! 🤙
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HYPE%20CODER&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Шарит%20в%20маркдауне%20жоска&descAlignY=51&descAlign=62" />
-</div>
 
-## 🚀 Обо мне (Чисто флекс)
-> "Пишу код так, что компилятор плачет от счастья. 42."
+<img src="https://i.pinimg.com/originals/15/4a/01/154a01c8751df31f8f303fec7ae51a37.gif" width="100%" height="200" style="object-fit: cover; border-radius: 15px;">
 
-* 💻 Разношу на **C#** (ADO.NET > LINQ, могу пояснить на защите).
-* 🎮 Организую лютые турниры по **Dota 2** и **Minecraft**.
-* 📐 Рисую UML в Draw.io так, будто это современное искусство.
-* 🧠 Студент-айтишник, который выживает на парах и тащит дедлайны по техническим заданиям.
+<br><br>
 
-## 🛠 Мой стэк (Чем я флекшу)
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dota%202-FF3333?style=for-the-badge&logo=dota2&logoColor=white" />
-  <img src="https://img.shields.io/badge/Minecraft-111111?style=for-the-badge&logo=minecraft&logoColor=white" />
-</p>
-
-## 🔥 Что сейчас в работе?
-<details>
-  <summary><b>🚨 Кликни, чтобы узнать инфу (эшкере)</b></summary>
-  <br>
-  Готовлю разнос: <b>Турнир Academy (Minecraft + Dota 2)</b> на 24 мая. Регистрация открыта для соло плееров и целых тим! Залетайте, будет мясо.
-</details>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=42+БРАТУХА+В+ЗДАНИИ;МАКСИМАЛЬНЫЙ+ЭШКЕРЕ;РАЗДАЮ+СТИЛЬ+НА+GITHUB;VIBE+CHECK:+PASSED+✅" alt="Typing SVG" />
+</a>
 
 <br>
 
-## 📈 Моя стата на GitHub (Жосткая)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК_НА_GITHUB&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_НИК_НА_GITHUB&theme=tokyonight" width="48%" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Me1l0n&label=ПРОСМОТРОВ+ЭТОГО+ШЕДЕВРА&color=ff0000&style=for-the-badge" alt="Profile views" />
+</p>
 
-## 💻 Кусочек моего флоу
-```csharp
-public async Task<string> FlexAsync()
-{
-    var vibe = "42";
-    var status = "эшкере";
-    return $"Братуха, вайб чисто {vibe}, {status}!";
-}
+---
+
+### 🏆 СТАТУС В ОБЩЕСТВЕ (ТРОФЕИ) 🏆
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Me1l0n&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophy" />
+</a>
+
+<br>
+
+### 📈 ПУЛЬС ХАЙПА (ГРАФИК АКТИВНОСТИ) 📈
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Me1l0n&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+
+<br>
+
+### 🔋 ПАНЕЛЬ СОСТОЯНИЯ 🔋
+<p align="center">
+  <img src="https://img.shields.io/badge/VIBE-OVER%209000-ff0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IQ-42-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SLEEP-0%25-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HYPE-MAX-ff0000?style=for-the-badge" />
+</p>
+
+<br>
+
+<details>
+  <summary><b>🔥 НЕ НАЖИМАТЬ (ОПАСНО ДЛЯ ГЛАЗ) 🔥</b></summary>
+  <br>
+  <div align="center">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q4c3RvcWZwcTZwMmMwNzF0MjBtdmJmcGZ2ODExYXQ3ODRxcTNndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lopx9eUi34rbq/giphy.gif" width="400" style="border-radius: 15px;" />
+    <p><i>Я же говорил, тут только хардкор. 🤙</i></p>
+  </div>
+</details>
+
+<br><br>
+
+---
+`// SYSTEM_STATUS: 42_ESHHKERE_OVERLOAD`
+</div>
