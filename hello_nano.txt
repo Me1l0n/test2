@@ -1,0 +1,3 @@
+"Hello, Git!" 
+"Vsem, hi. Vsem hai"
+"nano test text"
